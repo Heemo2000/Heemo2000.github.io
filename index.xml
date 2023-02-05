@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sam Robbins&#39; Website on Himanshu Gupta</title>
+    <link>https://Heemo2000.github.io/</link>
+    <description>Recent content in Sam Robbins&#39; Website on Himanshu Gupta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 19 Oct 2017 15:26:15 +0000</lastBuildDate><atom:link href="https://Heemo2000.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Endless Runner</title>
+      <link>https://Heemo2000.github.io/projects/endless-runner/</link>
+      <pubDate>Mon, 19 Dec 2022 23:00:00 +0000</pubDate>
+      
+      <guid>https://Heemo2000.github.io/projects/endless-runner/</guid>
+      <description> Implementation of jumping mechanic. Implementation of path generation based on sliding window problem. </description>
+    </item>
+    
+    <item>
+      <title>Shooting Platformer</title>
+      <link>https://Heemo2000.github.io/projects/shooting-platformer/</link>
+      <pubDate>Mon, 19 Sep 2022 23:00:00 +0000</pubDate>
+      
+      <guid>https://Heemo2000.github.io/projects/shooting-platformer/</guid>
+      <description> Implemented mario style jumping mechanic. Implemented weapon aiming using animation rigging. Implemented various types of bullets. Implemented enemy AI </description>
+    </item>
+    
+    <item>
+      <title>Space Shooter</title>
+      <link>https://Heemo2000.github.io/projects/space-shooter/</link>
+      <pubDate>Tue, 19 Jul 2022 23:00:00 +0000</pubDate>
+      
+      <guid>https://Heemo2000.github.io/projects/space-shooter/</guid>
+      <description> Implemented spacecraft movement. Implemented various types of powerups. Implemented object pooling to stop memory wastage. Implemented enemy generation. </description>
+    </item>
+    
+    <item>
+      <title>Making a new Website</title>
+      <link>https://Heemo2000.github.io/blog/first-blog/</link>
+      <pubDate>Tue, 31 Dec 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://Heemo2000.github.io/blog/first-blog/</guid>
+      <description>For a long time this website has had a couple of links to contact me, but those days are over.
+Now I have a brand new Hugo website with a custom written theme complete with
+A homepage with more social links, and description of my skills An about page with description of who I am A portfolio page to showcase all my projects A blog Why Hugo? The first question is why a site builder?</description>
+    </item>
+    
+  </channel>
+</rss>

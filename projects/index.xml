@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Himanshu Gupta</title>
+    <link>https://Heemo2000.github.io/projects/</link>
+    <description>Recent content on Himanshu Gupta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="https://Heemo2000.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Endless Runner</title>
+      <link>https://Heemo2000.github.io/projects/endless-runner/</link>
+      <pubDate>Mon, 19 Dec 2022 23:00:00 +0000</pubDate>
+      
+      <guid>https://Heemo2000.github.io/projects/endless-runner/</guid>
+      <description> Implementation of jumping mechanic. Implementation of path generation based on sliding window problem. </description>
+    </item>
+    
+    <item>
+      <title>Shooting Platformer</title>
+      <link>https://Heemo2000.github.io/projects/shooting-platformer/</link>
+      <pubDate>Mon, 19 Sep 2022 23:00:00 +0000</pubDate>
+      
+      <guid>https://Heemo2000.github.io/projects/shooting-platformer/</guid>
+      <description> Implemented mario style jumping mechanic. Implemented weapon aiming using animation rigging. Implemented various types of bullets. Implemented enemy AI </description>
+    </item>
+    
+    <item>
+      <title>Space Shooter</title>
+      <link>https://Heemo2000.github.io/projects/space-shooter/</link>
+      <pubDate>Tue, 19 Jul 2022 23:00:00 +0000</pubDate>
+      
+      <guid>https://Heemo2000.github.io/projects/space-shooter/</guid>
+      <description> Implemented spacecraft movement. Implemented various types of powerups. Implemented object pooling to stop memory wastage. Implemented enemy generation. </description>
+    </item>
+    
+  </channel>
+</rss>
