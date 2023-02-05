@@ -13,7 +13,7 @@
       <pubDate>Mon, 19 Dec 2022 23:00:00 +0000</pubDate>
       
       <guid>https://Heemo2000.github.io/projects/endless-runner/</guid>
-      <description> Implementation of jumping mechanic. Implementation of path generation based on sliding window problem. </description>
+      <description> Implemented of jumping mechanic. Implemented of path generation based on sliding window problem. Implemented of object pooling to stop memory wastage. </description>
     </item>
     
     <item>
